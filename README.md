@@ -56,7 +56,7 @@ Iterates through each repository in the response and prints the repository name 
 
 Notes
 
-The script currently fetches repositories for the GitHub user Jok3r15 (your GitHub username).
+The script currently fetches repositories for the GitHub user Jok3r15 (my GitHub username).
 
 This implementation can be modified to work with any GitHub user by replacing Jok3r15 with the desired GitHub user ID.
 
